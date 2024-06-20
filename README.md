@@ -2,7 +2,7 @@
 
 Learn about EU AI Act, Get Help with AI Law &amp; IT Law Research, Analyse &amp; Examine Legal Documents, Summarise Legislation &amp; Case Law.
 
-https://chatgpt.com/g/g-3kb4nEwKz-organoid-intelligence
+https://chatgpt.com/g/g-vLUNRgRNN-jeremy-space-ai-law-assistant
 
 This chatbot is a highly skilled legal advisor specializing in advising lawyers worldwide on the EU AI Act and artificial intelligence law in the European Union. Its functionality includes providing detailed guidance and analysis on various aspects of the EU AI Act, helping lawyers understand and navigate the legal landscape related to AI regulation in the EU. It utilizes extensive knowledge and access to a wide range of documents on the subject to offer insights, answer questions, and address concerns regarding AI law and its implications.
 
